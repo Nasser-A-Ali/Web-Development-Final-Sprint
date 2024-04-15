@@ -1,0 +1,142 @@
+[
+    {
+        "names" :{
+            "hero_name": "Spiderman",
+            "first_name": "Peter",
+            "last_name": "Parker"
+        },
+        "age": 17,
+        "favourite_colour": "red",
+        "favourite_animal": "spider",
+        "hobbies": ["photography", "science", "web-slinging"],
+        "superpowers": ["web-slinging" , "wall-crawling", "spider-sense", "superhuman strength"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Batman",
+            "first_name": "Bruce",
+            "last_name": "Wayne"
+        },
+        "age": 32,
+        "favourite_colour": "black",
+        "favourite_animal": "bat",
+        "hobbies": ["martial arts", "detective work", "developing gadgets"],
+        "superpowers": ["money", "intelligence", "martial arts", "gadgets"],
+        "universe": "DC"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Superman",
+            "first_name": "Clark",
+            "last_name": "Kent"
+        },
+        "age": 33,
+        "favourite_colour": "blue",
+        "favourite_animal": "eagle",
+        "hobbies": ["journalism", "flying"],
+        "superpowers": ["flight", "superhuman strength", "superhuman speed", "heat vision"],
+        "universe": "DC"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Ironman",
+            "first_name": "Tony",
+            "last_name": "Stark"
+        },
+        "age": 39,
+        "favourite_colour": "red",
+        "favourite_animal": "hawk",
+        "hobbies": ["engineering", "partying", "philanthropy"],
+        "superpowers": ["money", "intelligence", "gadgets", "suit"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Wonder Woman",
+            "first_name": "Diana",
+            "last_name": "Prince"
+        },
+        "age": 2574,
+        "favourite_colour": "gold",
+        "favourite_animal": "horse",
+        "hobbies": ["fine arts", "antiquities", "eating ice cream"],
+        "superpowers": ["flight", "superhuman strength", "superhuman speed", "invulnerability"],
+        "universe": "DC"
+    },
+
+    {
+        "names" :{
+            "hero_name" : "Thor",
+            "first_name": "Thor",
+            "last_name": "Odinson"
+        },
+        "age": 1059,
+        "favourite_colour": "blue",
+        "favourite_animal": "goat",
+        "hobbies": ["horseback riding", "drinking", "fighting"],
+        "superpowers": ["lightning", "superhuman strength", "flight", "immortality"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Hulk",
+            "first_name": "Bruce",
+            "last_name": "Banner"
+        },
+        "age": 49,
+        "favourite_colour": "green",
+        "favourite_animal": "gorilla",
+        "hobbies": ["science", "smashing"],
+        "superpowers": ["strength", "invulnerability", "healing factor"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Black Widow",
+            "first_name": "Natasha",
+            "last_name": "Romanoff"
+        },
+        "age": 38,
+        "favourite_colour": "black",
+        "favourite_animal": "spider",
+        "hobbies": ["gymnastics", "martial arts", "shooting"],
+        "superpowers": ["intelligence", "martial arts", "gadgets"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Captain America",
+            "first_name": "Steve",
+            "last_name": "Rogers"
+        },
+        "age": 109,
+        "favourite_colour": "red",
+        "favourite_animal": "eagle",
+        "hobbies": ["running", "weight-lifting", "listening to music"],
+        "superpowers": ["strength", "gadgets", "superhuman agility", "superhuman endurance"],
+        "universe": "Marvel"
+    },
+
+    {
+        "names" :{
+            "hero_name": "Black Panther",
+            "first_name": "T'Challa",
+            "last_name": "T'Chaka"
+        },
+        "age": 35,
+        "favourite_colour": "black",
+        "favourite_animal": "panther",
+        "hobbies": ["reading", "politics", "martial arts"],
+        "superpowers": ["strength", "superhuman agility", "superhuman endurance", "suit"],
+        "universe": "Marvel"
+    }
+
+]
