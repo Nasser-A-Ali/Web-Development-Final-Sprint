@@ -51,7 +51,7 @@ fetch('./people.json')
         let statement = '';
         if (person.hobbies.length === 1) {
             statement = person.hobbies[0];
-        } else if (person.hobbies.length = 2) {
+        } else if (person.hobbies.length === 2) {
             statement = person.hobbies[0] + ' and ' + person.hobbies[1];
         } else if (person.hobbies.length > 1) {
             statement = person.hobbies.slice(0, -1).join(', ') + ', and ' + person.hobbies[person.hobbies.length - 1];
@@ -70,7 +70,7 @@ fetch('./people.json')
         let statement = '';
         if (person.superpowers.length === 1) {
             statement = person.superpowers[0] + '.';
-        } else if (person.superpowers.length = 2) {
+        } else if (person.superpowers.length === 2) {
             statement = person.superpowers[0] + ' and ' + person.superpowers[1] + '.';
         } else if (person.superpowers.length > 2) {
             statement = person.superpowers.slice(0, -1).join(', ') + ', and ' + person.superpowers[person.superpowers.length - 1] + '.';
