@@ -53,7 +53,7 @@ fetch('./people.json')
             statement = person.hobbies[0];
         } else if (person.hobbies.length === 2) {
             statement = person.hobbies[0] + ' and ' + person.hobbies[1];
-        } else if (person.hobbies.length > 1) {
+        } else if (person.hobbies.length > 2) {
             statement = person.hobbies.slice(0, -1).join(', ') + ', and ' + person.hobbies[person.hobbies.length - 1];
         }
         return statement;
